@@ -6,7 +6,6 @@
 ### tensorflow - 2.4.1
 ### matplotlib - 3.3.2
 
-## Installation of each packages are commented in the code
-## uncomment the lines to install the packages
-
-## then run the code
+### Installation of each packages are commented in the code
+### uncomment the lines to install the packages
+### then run the code
