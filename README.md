@@ -9,3 +9,6 @@
 ### Installation of each packages are commented in the code
 ### uncomment the lines to install the packages
 ### then run the code
+
+## For more information on tensorflow installation visit the site
+https://www.tensorflow.org/install
